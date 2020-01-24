@@ -5,21 +5,22 @@
 ###### Technologies used
 
 **Frameworks**:
-              * React Native,
-              * react-native-gesture-handler,
-              * react-native-maps,
-              * react-native-reanimated,
-              * react-native-safe-area-context,
-              * react-native-screens,
-              * react-native-web,
-              * react-native-webview,
-              * react-navigation,
-              * react-navigation-stack,
-              * Axios,
-              * Socket.io-client,
-              * Expo,
-              * Expo-Location 
-
+            ```
+              React Native,
+              react-native-gesture-handler,
+              react-native-maps,
+              react-native-reanimated,
+              react-native-safe-area-context,
+              react-native-screens,
+              react-native-web,
+              react-native-webview,
+              react-navigation,
+              react-navigation-stack,
+              Axios,
+              Socket.io-client,
+              Expo,
+              Expo-Location
+            ```
 ##### You use this project 
 
 1. You'll clone this repo and backend repo bofore from execute this project 
